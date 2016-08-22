@@ -2,4 +2,4 @@
 **Source:** Front-End Web Development
 
 **Current Progress:**
-Chapter 3: Styles; pg. 33
+Chapter 3: Styles; pg. 48
