@@ -2,4 +2,4 @@
 **Source:** Front-End Web Development
 
 **Current Progress:**
-Chapter 3: Styles; pg. 48
+Chapter 3: Styles; Relationship Selectors. pg. 55
