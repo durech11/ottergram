@@ -3,5 +3,5 @@
 
 **Current Progress:**
 Chapter 6: Handling Events with Javascript
-Returning Values from Functions
-pg. 120
+Adding an Event Listener
+pg. 123
